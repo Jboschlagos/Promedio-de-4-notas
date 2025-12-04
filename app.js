@@ -1,4 +1,4 @@
-window.alert("A continuación ingresa tus notas para calcular su promedio");
+alert("A continuación ingresa tus notas para calcular su promedio");
 
 var nota1 = parseFloat(window.prompt("Ingrese nota 1"));
 var nota2 = parseFloat(window.prompt("Ingrese nota 2"));
